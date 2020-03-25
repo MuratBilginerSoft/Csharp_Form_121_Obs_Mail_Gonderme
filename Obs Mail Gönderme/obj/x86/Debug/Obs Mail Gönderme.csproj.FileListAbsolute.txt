@@ -1,0 +1,39 @@
+C:\Users\murat\Desktop\MURAT\New folder\Obs Mail Gönderme\Obs Mail Gönderme\bin\Debug\Obs Mail Gönderme.exe
+C:\Users\murat\Desktop\MURAT\New folder\Obs Mail Gönderme\Obs Mail Gönderme\bin\Debug\Obs Mail Gönderme.pdb
+C:\Users\murat\Desktop\MURAT\New folder\Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Form1.resources
+C:\Users\murat\Desktop\MURAT\New folder\Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Properties.Resources.resources
+C:\Users\murat\Desktop\MURAT\New folder\Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\MURAT\New folder\Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.exe
+C:\Users\murat\Desktop\MURAT\New folder\Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.pdb
+C:\Users\murat\Desktop\MURAT\New folder\Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Personel.resources
+C:\Users\murat\Desktop\MURAT\New folder\Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Öğrenci.resources
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\M-P\Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.exe
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\M-P\Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.pdb
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\M-P\Obs Mail Gönderme\Obs Mail Gönderme\bin\Debug\Obs Mail Gönderme.exe
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\M-P\Obs Mail Gönderme\Obs Mail Gönderme\bin\Debug\Obs Mail Gönderme.pdb
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\M-P\Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Form1.resources
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\M-P\Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Personel.resources
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\M-P\Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Properties.Resources.resources
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\M-P\Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Öğrenci.resources
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\M-P\Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.csproj.GenerateResource.Cache
+E:\03 - Yazılım\05 - Büyük Projeler\22 Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.exe
+E:\03 - Yazılım\05 - Büyük Projeler\22 Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\22 Obs Mail Gönderme\Obs Mail Gönderme\bin\Debug\Obs Mail Gönderme.exe
+E:\03 - Yazılım\05 - Büyük Projeler\22 Obs Mail Gönderme\Obs Mail Gönderme\bin\Debug\Obs Mail Gönderme.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\22 Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\22 Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Personel.resources
+E:\03 - Yazılım\05 - Büyük Projeler\22 Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\22 Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Öğrenci.resources
+E:\03 - Yazılım\05 - Büyük Projeler\22 Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.csproj.GenerateResource.Cache
+E:\03 - Yazılım\05 - Büyük Projeler\22 Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.csprojResolveAssemblyReference.cache
+G:\03 - Cloud\05 - Github - Akademi\03 - C# Gelişmiş Projeler\G 10 - Obs Mail Gönderme\Obs Mail Gönderme\bin\Debug\Obs Mail Gönderme.exe
+G:\03 - Cloud\05 - Github - Akademi\03 - C# Gelişmiş Projeler\G 10 - Obs Mail Gönderme\Obs Mail Gönderme\bin\Debug\Obs Mail Gönderme.pdb
+G:\03 - Cloud\05 - Github - Akademi\03 - C# Gelişmiş Projeler\G 10 - Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.csprojAssemblyReference.cache
+G:\03 - Cloud\05 - Github - Akademi\03 - C# Gelişmiş Projeler\G 10 - Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Form1.resources
+G:\03 - Cloud\05 - Github - Akademi\03 - C# Gelişmiş Projeler\G 10 - Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Personel.resources
+G:\03 - Cloud\05 - Github - Akademi\03 - C# Gelişmiş Projeler\G 10 - Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Properties.Resources.resources
+G:\03 - Cloud\05 - Github - Akademi\03 - C# Gelişmiş Projeler\G 10 - Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs_Mail_Gönderme.Öğrenci.resources
+G:\03 - Cloud\05 - Github - Akademi\03 - C# Gelişmiş Projeler\G 10 - Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.csproj.GenerateResource.cache
+G:\03 - Cloud\05 - Github - Akademi\03 - C# Gelişmiş Projeler\G 10 - Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.csproj.CoreCompileInputs.cache
+G:\03 - Cloud\05 - Github - Akademi\03 - C# Gelişmiş Projeler\G 10 - Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.exe
+G:\03 - Cloud\05 - Github - Akademi\03 - C# Gelişmiş Projeler\G 10 - Obs Mail Gönderme\Obs Mail Gönderme\obj\x86\Debug\Obs Mail Gönderme.pdb
